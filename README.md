@@ -13,7 +13,7 @@
 | :---- | :---- | :---- |
 | Ryan Nunes | [47391171] | [usuario_ryan] |
 | Matheus Bosnic | [47646454] | [usuario_matheus] |
-
+Rafael Tavares oliveira | 48224499
 &nbsp;
 
 ### 1.1 Revisão do Modelo Conceitual
