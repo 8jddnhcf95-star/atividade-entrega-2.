@@ -11,8 +11,8 @@
 
 | Nome completo do aluno | RGM | Usuário do GitHub |
 | :---- | :---- | :---- |
-| Ryan Nunes | [47391171] | [usuario_ryan] |
-| Matheus Bosnic | [47646454] | [usuario_matheus] |
+| Ryan Nunes | [47391171] | [usuario_8jddnhcf95-star] |
+| Matheus Bosnic | [47646454] | [usuario_matheusbosnic] |
 Rafael Tavares oliveira | 48224499
 &nbsp;
 
